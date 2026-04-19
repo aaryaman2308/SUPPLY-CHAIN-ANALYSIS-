@@ -1,4 +1,4 @@
-#🔗 End-to-End Supply Chain Analysis Using Python
+# End-to-End Supply Chain Analysis Using Python
 ### Data Analyst Portfolio Project 2026
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This end-to-end supply chain analysis project demonstrates how a Data Analyst solves **real business problems** using Python. The project covers the full analytics lifecycle — from raw data to machine learning — and produces actionable business recommendations.
 
@@ -16,7 +16,7 @@ This end-to-end supply chain analysis project demonstrates how a Data Analyst so
 
 ---
 
-## 🏢 Business Context
+## Business Context
 
 A consumer goods company operating across **Healthcare, Beauty, Skincare, Haircare, and Cosmetics** categories wants to:
 
@@ -27,14 +27,14 @@ A consumer goods company operating across **Healthcare, Beauty, Skincare, Hairca
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 supply-chain-analysis/
 │
-├── 📓 Supply_Chain_Analysis.ipynb   ← Main Jupyter Notebook (full analysis)
-├── 🐍 Supply_Chain_Analysis.py      ← Python script version
-├── 📊 supply_chain_data.csv         ← Dataset (1000 rows × 27 features)
+├──  Supply_Chain_Analysis.ipynb   ← Main Jupyter Notebook (full analysis)
+├── Supply_Chain_Analysis.py      ← Python script version
+├──  supply_chain_data.csv         ← Dataset (1000 rows × 27 features)
 │
 ├── outputs/
 │   ├── 01_revenue_profit.png        ← Revenue & Profit Distribution
@@ -51,7 +51,7 @@ supply-chain-analysis/
 
 ---
 
-## 🔬 Analysis Sections
+## Analysis Sections
 
 | # | Section | Key Techniques |
 |---|---------|---------------|
@@ -68,7 +68,7 @@ supply-chain-analysis/
 
 ---
 
-## 📊 Dataset Features
+## Dataset Features
 
 | Feature | Description |
 |---------|-------------|
@@ -86,14 +86,14 @@ supply-chain-analysis/
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 **Task:** Binary classification — predict whether a product/order is **High Risk** (defective or fails inspection)
 
 **Models trained:**
-- ✅ Random Forest Classifier
-- ✅ Gradient Boosting Classifier
-- ✅ Logistic Regression (with StandardScaler)
+-  Random Forest Classifier
+-  Gradient Boosting Classifier
+- Logistic Regression (with StandardScaler)
 
 **Evaluation:** Classification Report · Confusion Matrix · ROC-AUC Curve
 
@@ -101,20 +101,20 @@ supply-chain-analysis/
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 | Area | Finding | Recommendation |
 |------|---------|---------------|
-| 📦 Revenue | **Beauty** is the top revenue category | Scale inventory & marketing for Beauty SKUs |
-| 🏭 Quality | **Supplier E** has the highest defect rate | Conduct quality audit; enforce SLA penalties |
-| 🚚 Logistics | **Road** is the most cost-effective mode | Use Road/Rail for non-urgent bulk orders |
-| ⚠️ Risk | 628/1000 products flagged as high-risk | Add pre-shipment QC checkpoints |
-| 💸 Loss | ~₹3.85L estimated loss from defects | Invest in defect-reduction programs |
-| 📈 ML | Random Forest for risk prediction | Deploy model to flag risky orders pre-dispatch |
+|  Revenue | **Beauty** is the top revenue category | Scale inventory & marketing for Beauty SKUs |
+|  Quality | **Supplier E** has the highest defect rate | Conduct quality audit; enforce SLA penalties |
+|  Logistics | **Road** is the most cost-effective mode | Use Road/Rail for non-urgent bulk orders |
+|  Risk | 628/1000 products flagged as high-risk | Add pre-shipment QC checkpoints |
+|  Loss | ~₹3.85L estimated loss from defects | Invest in defect-reduction programs |
+|  ML | Random Forest for risk prediction | Deploy model to flag risky orders pre-dispatch |
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1: Jupyter Notebook (Recommended)
 ```bash
@@ -136,7 +136,7 @@ python Supply_Chain_Analysis.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -150,7 +150,7 @@ python Supply_Chain_Analysis.py
 
 ---
 
-## 📈 Sample Visualisations
+## Sample Visualisations
 
 > All charts are saved in the `/outputs/` folder after running the notebook.
 
@@ -162,18 +162,12 @@ python Supply_Chain_Analysis.py
 
 ---
 
-## 👤 Author
+## Author
 
 **AARYAMAN2308**  
 Data Analyst | Python | SQL | Power BI  
 🔗 [LinkedIn](https://www.linkedin.com/in/aaryaman-sharma-33b946381/) · 💻 [GitHub](https://github.com/aaryaman2308)
 
----
 
-## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
-
----
-
-*⭐ If you found this helpful, please star this repo!*
+* If you found this helpful, please star this repo!*
