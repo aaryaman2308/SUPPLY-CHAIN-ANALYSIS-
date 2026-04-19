@@ -164,7 +164,7 @@ python Supply_Chain_Analysis.py
 
 ## 👤 Author
 
-**[Your Name]**  
+**AARYAMAN2308**  
 Data Analyst | Python | SQL | Power BI  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · 💻 [GitHub](https://github.com/yourusername)
 
